@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeomchang-club-note.banpo-massage-review.xyz/sitemap.xml
+Sitemap: https://yeomchang-club-note.banpo-massage-review.xyz/sitemap-pages.xml
